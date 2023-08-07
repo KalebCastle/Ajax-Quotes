@@ -27,7 +27,7 @@
         }
 
     </style>
-    <p>Purpose: This page generates a random quote with a random font every 5 seconds.</p>
+    <p>Purpose: A random quote is generated with a random font every 5 seconds.</p>
     <div id="quoteContainer">Quote goes here</div>
     <script>
       
