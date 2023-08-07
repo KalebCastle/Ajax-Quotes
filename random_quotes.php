@@ -1,11 +1,11 @@
 <?php
 // Array of quotes
 $quotes = [
-    "I choose myself and I will always continue to choose myself. - Wizard Liz",
-    "Be enough for yourself first, the rest of the world can wait. - Wizard Liz",
-    "Once you start seeing the results of taking care of yourself, it becomes addictive. - Wizard Liz",
-    "I enjoy continuously becoming a better version of myself. - Wizard Liz",
-    "What makes a person successful is the fact that they do not quit. - Wizard Liz",
+    "Do or do not there is no try - Yoda",
+    "He that breaks a thing to find out what it is has left the path of wisdom. - Gandalf",
+    "Only a small part is played in great deeds by any hero. - Gandalf",
+    "Named must be your fear before banishing it you can. - Yoda",
+    "The wise speak only of what they know. - Gandalf",
 ];
 
 // Get a random index
